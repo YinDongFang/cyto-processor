@@ -1,0 +1,48 @@
+{
+  "name": "cyto-processor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/cyto-processor.git"
+  },
+  "author": "YinDongFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/cyto-processor/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/cyto-processor#readme",
+  "dependencies": {
+    "blob": "^0.1.0",
+    "debug": "^4.3.4",
+    "express": "^4.19.2",
+    "is-bool": "^0.0.3",
+    "is-number": "^7.0.0",
+    "is-object": "^1.0.2",
+    "is-string": "^1.0.7",
+    "koa": "^2.15.2",
+    "lazy-store-loader": "^2.0.3",
+    "lodash": "^4.17.21",
+    "qs": "^6.12.0",
+    "querystring": "^0.2.1",
+    "react": "^18.2.0",
+    "uuid": "^9.0.1",
+    "vite": "^5.2.6",
+    "vue": "^3.4.21",
+    "cyto-analytics": "^1.0.0",
+    "cyto-visualizer": "^1.0.0",
+    "cyto-manager": "^1.0.0",
+    "cyto-service": "^1.0.0",
+    "cyto-engine": "^1.0.0",
+    "cyto-router": "^1.0.0",
+    "cyto-controller": "^1.0.0",
+    "cyto-middleware": "^1.0.0",
+    "cyto-dashboard": "^1.0.0",
+    "cyto-backend": "^1.0.0",
+    "cyto-connector": "^1.0.0"
+  }
+}
